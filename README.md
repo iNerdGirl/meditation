@@ -1,3 +1,3 @@
-## MEDITATION APP
+# MEDITATION APP
 
-# Just a quick meditation app built with HTML, CSS, and JS
+### Just a quick meditation app built with HTML, CSS, and JS
